@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWkmNUl+dwKtOc8g36JS8Is4804x30DUcVZR517oLQLfSWMTCnmg50J2WQzi1fdXrFRdc+g1/DiMX31tE9AxCg==",
+  "success": true,
+  "projectFilePath": "/home/joao_paulo/PostgresConn/PostgresConn.csproj",
+  "expectedPackageFiles": [
+    "/home/joao_paulo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/joao_paulo/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/joao_paulo/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512",
+    "/home/joao_paulo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

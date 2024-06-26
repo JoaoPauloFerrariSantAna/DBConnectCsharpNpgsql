@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p+2A5whsY2pRIphEniGwjLuJ7EqUoAdh3xfP1MssnUA=",
+  "Source": "PostgresConn",
+  "BasePath": "_content/PostgresConn",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
